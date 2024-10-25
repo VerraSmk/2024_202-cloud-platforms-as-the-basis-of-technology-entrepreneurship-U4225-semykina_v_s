@@ -1,0 +1,1 @@
+# 2024_202-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-semykina_v_s
