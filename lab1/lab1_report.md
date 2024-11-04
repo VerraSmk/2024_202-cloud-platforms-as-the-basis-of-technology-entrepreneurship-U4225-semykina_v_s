@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
-Year: 2024/2025
-Group: U4225
-Author: Semykina Vera Stanislavovna
-Lab: Lab1
-Date of create: 25.10.2024
-Date of finished: 25.10.2024
+**University** : [ITMO University](https://itmo.ru/ru/)
+**Faculty** : [FICT](https://fict.itmo.ru)
+**Course **: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+**Year**: 2024/2025
+**Group** : U4225
+**Author** : Semykina Vera Stanislavovna
+**Lab**: Lab1
+**Date of create**: 25.10.2024
+**Date of finished** : 25.10.2024
 
 # Лабораторная работа 1 - Обзор Google Cloud и исследование ключевых сервисов
 ## Цель
